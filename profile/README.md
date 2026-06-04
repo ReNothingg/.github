@@ -26,8 +26,8 @@
 Каждый вклад идёт в эксперименты, железо и новые идеи.
  
 ### CryptoBot [Открыть в Telegram](https://t.me/send?start=IVsUYF7QYiY1)
-### TON `UQBhUkbAS_6AhB3O534VDpZzfpWlJiEiL_4GOlortNpxanJV`
-### USDT (TRC20) `TSo8o6eQNYZez5JdiGKzVvpioRT5yFmLcx`
+### TON `UQArZzaRDeS3NZ6Dvn4rZu-6UJwWkwiG55pR1fSir-KLnzgo`
+### USDT (TRC20) `TYwd14T4wkq5p33onBcaB2qeCPLSAwrtU3`
 ### Boosty [Стать подписчиком](https://boosty.to/blootber)
 
 ---
