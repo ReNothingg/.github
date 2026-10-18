@@ -18,34 +18,8 @@
 
 Всегда рад обсудить новые идеи, обменяться опытом или просто пообщаться. Пишите!
 
----
+# [Связаться](https://renothingg.github.io/?contact)
 
-## Поддержать
-
-Если вам откликается то, что я делаю, можно помочь развитию проектов.  
-Каждый вклад идёт в эксперименты, железо и новые идеи.
- 
-### CryptoBot [Открыть в Telegram](https://t.me/send?start=IVsUYF7QYiY1)
-### TON `UQArZzaRDeS3NZ6Dvn4rZu-6UJwWkwiG55pR1fSir-KLnzgo`
-### USDT (TRC20) `TYwd14T4wkq5p33onBcaB2qeCPLSAwrtU3`
-### Boosty [Стать подписчиком](https://boosty.to/blootber)
-
----
-
-# Связаться
-
-Если есть вопросы, предложения или заказы — пишите в лс. Отвечаю не всегда быстро: занят или не вижу смысла продолжать разговор
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@daich-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daich)
-[![X (Twitter)](https://img.shields.io/badge/X-@BLOOTBER515-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BLOOTBER515)
-[![Steam](https://img.shields.io/badge/Steam-Arbuzekkk-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Arbuzekkk)
-[![YouTube](https://img.shields.io/badge/YouTube-ReNothinggg-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ReNothinggg)
-[![TikTok](https://img.shields.io/badge/TikTok-renothingg-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renothingg)
-
-</div> 
-              
 ---
 
 <div align="center">
