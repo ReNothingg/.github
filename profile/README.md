@@ -20,6 +20,14 @@
 
 Всегда рад обсудить новые идеи, обменяться опытом или просто пообщаться. Пишите!
 
+## 🛠️ Стек
+
+<div align="center">
+
+[![Stack](https://skillicons.dev/icons?i=react,ts,js,python,fastapi,cs,unity,nodejs,redis,postgres,docker,linux,git,vscode&perline=7)](https://skillicons.dev)
+
+</div>
+
 # [Связаться](https://renothingg.github.io/?contact)
 
 ---
