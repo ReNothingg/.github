@@ -7,12 +7,16 @@
 [![Profile Views](https://count.getloli.com/get/@renothingg?theme=rule34)](https://github.com/renothingg)
 
 [![Email](https://img.shields.io/badge/Email-renothingg%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renothingg@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@daich-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daich)
+[![Kwork](https://img.shields.io/badge/Kwork-renothing-00A65A?style=for-the-badge)](https://kwork.ru/user/renothing)
+[![Site](https://img.shields.io/badge/Site-renothingg.github.io-7AA2F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://renothingg.github.io/)
+[![Boosty](https://img.shields.io/badge/Boosty-donate-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/blootber/donate)
 
 </div> 
 
 Здравствуйте! Я занимаюсь разработкой веб-приложений, автоматизацией, созданием Telegram-ботов, AI-интеграций и программных решений под ваши задачи.
 
-Работаю в fullstack-направлении: React + TypeScript, Python, C#, Unity. Разрабатываю backend и frontend, REST API, работаю с WebSocket/SSE, базами данных, Redis, Docker-инфраструктурой и автоматизацией процессов. Также занимаюсь интеграцией AI/LLM в разные проекты (чат-системы, ассистенты, генерация контента, обработка данных). Мне интересны создание удобных и рабочих решений, которые можно использовать на практике. Пример одного из проектов вы можете найти по: [chat.synvexai.com](chat.synvexai.com)
+Работаю в fullstack-направлении: React + TypeScript, Python, C#, Unity. Разрабатываю backend и frontend, REST API, работаю с WebSocket/SSE, базами данных, Redis, Docker-инфраструктурой и автоматизацией процессов. Также занимаюсь интеграцией AI/LLM в разные проекты (чат-системы, ассистенты, генерация контента, обработка данных). Мне интересны создание удобных и рабочих решений, которые можно использовать на практике. Пример одного из проектов вы можете найти по: [chat.synvexai.com](https://chat.synvexai.com)
 
 Подхожу к задачам внимательно и вдумчиво: разбираюсь в цели проекта, затем предлагаю оптимальный вариант реализации. Стараюсь писать понятный, аккуратный и поддерживаемый код, а также делать результат техническим, рабочим и удобным для пользователя.
 
