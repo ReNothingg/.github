@@ -33,6 +33,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReNothingg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReNothingg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
 
 </div>
 
