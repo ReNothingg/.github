@@ -1,6 +1,8 @@
 <div align="center">
  
 # ☆*: .｡. o You Can Just Start Building Things o .｡.:*☆
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Fullstack+%2F+Backend+Developer;Telegram+bots+%E2%80%A2+AI%2FLLM+integrations;React+%2B+TypeScript+%E2%80%A2+Python+%E2%80%A2+C%23;localhost+is+my+home+%F0%9F%8F%A0)](https://git.io/typing-svg)
  
 [![Profile Views](https://count.getloli.com/get/@renothingg?theme=rule34)](https://github.com/renothingg)
 
