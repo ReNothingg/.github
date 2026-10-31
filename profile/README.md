@@ -32,8 +32,6 @@
 
 </div>
 
-## 📊 Статистика
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReNothingg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
@@ -42,8 +40,6 @@
 <img src="https://streak-stats.demolab.com?user=ReNothingg&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 
 </div>
-
-## 🐍 Змейка
 
 <div align="center">
 
@@ -62,7 +58,5 @@
 <div align="center">
  
 # ✨ **Спасибо за визит!** ✨
-
-<sub>localhost is my home 🏠</sub>
 
 </div> 
